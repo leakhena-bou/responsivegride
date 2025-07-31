@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    background-color: #D1D1D1;;
+}
+header .card,
+footer .card{
+    height: 100px;
+}
+main .card{
+    height: 400px;
+}
+main .card-12{
+    height: 111px;
+    background-color: #7dc181;
+}
+main .card-9,
+main .card-3,
+main .card-6,
+main .card-4{
+    background-color: #7dc581;
+    height: 80px;
+}
+main .card-6{
+    height: 175px;
+}
+main .card-12-3{
+    height: 240px;
+    background-color: #7dc581;
+}
+main .mb-sm{
+    margin-bottom: 16px;
+}
+main .mb-sm-last{
+    margin-bottom: 0 !important;
+}
